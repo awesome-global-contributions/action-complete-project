@@ -1,0 +1,5 @@
+name: 'Complet Project'
+descripiton: 'An gh action to automatically check the commited projects for completeness and comment its contents for easier access'
+runs:
+  using: 'node12'
+  main: 'index.js'

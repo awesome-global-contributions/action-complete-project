@@ -1,0 +1,19 @@
+{
+  "name": "agc-action-complete-project",
+  "version": "1.0.0",
+  "description": "A github action to automatically check the commited projects for completeness and comment its contents for easier access",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesome-global-contributions/action-complete-project.git"
+  },
+  "author": "AblingerOscar <dev.ablinger@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awesome-global-contributions/action-complete-project/issues"
+  },
+  "homepage": "https://github.com/awesome-global-contributions/action-complete-project#readme"
+}
